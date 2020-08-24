@@ -1,0 +1,14 @@
+body{
+  color : orange;
+  background-color:black;
+  background-image: url("F:\Desktop\Documents\photo.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 1px;
+  background-attachment: fixed;
+
+}
+p {
+	border-style: solid;
+               	border-color: silver;
+}
